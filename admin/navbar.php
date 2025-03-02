@@ -45,7 +45,7 @@
 	</div>
 </nav>
 
-<script>
+<script>git
 	$('.nav_collapse').click(function(){
 		console.log($(this).attr('href'))
 		$($(this).attr('href')).collapse()
